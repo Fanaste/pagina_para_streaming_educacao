@@ -2,7 +2,7 @@
 
 Uma plataforma de vídeos educacionais inspirada na interface do YouTube, desenvolvida com **HTML** e **CSS**, como parte dos cursos da [Alura](https://www.alura.com.br/). O objetivo é reforçar conceitos de **semântica HTML**, **responsividade**, e **componentização visual**.
 
-![AluraPlay Preview](./838a5968-da9d-4f7e-9d33-d8e80d91bd88.png)
+![AluraPlay Preview](.projeto-alura-play.png)
 
 ## 🚀 Funcionalidades
 
